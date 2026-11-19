@@ -53,3 +53,7 @@ This project focuses on analysing coffee shop sales data using Microsoft Power B
 ## Project Status
 
 Completed
+
+## Dashboard Preview
+
+![Coffee Shop Dashboard](Coffee_Shop_Dashboard.png)
