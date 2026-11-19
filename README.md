@@ -56,4 +56,4 @@ Completed
 
 ## Dashboard Preview
 
-![Coffee Shop Dashboard](Coffee_Shop_Dashboard.png)
+![Coffee Shop Dashboard](Coffee%20screenshot.jpg)
